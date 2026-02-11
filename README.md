@@ -41,7 +41,7 @@ My mission? To craft **smart, scalable, and ethical AI systems** that bridge the
 | **📰 Fake News Detection Chatbot** | Detects misinformation in real-time using Passive Aggressive Classifier + Streamlit UI | Python, NLP |
 | **📷 Object Detection in Real-Time** | YOLO-based object detection deployed on cloud | PyTorch, OpenCV |
 | **📈 Predictive Stock Trends** | ML model predicting market trends with sentiment analysis | Python, Scikit-Learn |
-| ** AI-LOG-ANALYTICS88 | detects anomalous behavior using machine learning, and infers probable root causes with confidence scoring, all through an interactive web interface. | Streamlit, Python, NLP |
+| ** AI-Log-analytics** | detects anomalous behavior using machine learning, and infers probable root causes with confidence scoring, all through an interactive web interface. | Streamlit, Python, NLP |
 ---
 
 <p align="center">
